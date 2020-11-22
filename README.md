@@ -15,37 +15,30 @@
      alt="Python"
      width="26px"
      style="float: left; margin-right: 15px;" />
-
 <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java.png"
      alt="Java"
      width="26px"
      style="float: left; margin-right: 15px;" />
-
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
      alt="VSCode"
      width="26px"
      style="float: left; margin-right: 15px;" />
-
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
      alt="Git"
      width="26px"
      style="float: left; margin-right: 15px;" />
-
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"
      alt="Github"
      width="26px"
      style="float: left; margin-right: 15px;" />
-
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
      alt="Terminal"
      width="26px"
      style="float: left; margin-right: 15px;" />
-
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"
      alt="Vim"
      width="26px"
      style="float: left; margin-right: 15px;" />
-
 <br>
 
 #### Connect with me:
