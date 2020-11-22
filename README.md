@@ -25,6 +25,12 @@
 
 [<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" style="float: left; margin-right: 5px;"/>][github]
 
+[<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" style="float: left; margin-right: 5px;"/>][github]
+
+[<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" style="float: left; margin-right: 5px;"/>][github]
+
+[<img align="left" alt="Pandas" width="26px" src="https://cdn.shortpixel.ai/spai/w_300+q_lossy+ret_img+to_webp/https://www.numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" style="float: left; margin-right: 5px;"/>][github]
+
 <br>
 
 ### Connect with me:
