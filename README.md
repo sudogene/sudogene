@@ -11,34 +11,20 @@
 - Interest in building software for biological research
 
 #### Languages and Tools:
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
-     alt="Python"
-     width="26px"
-     style="float: left; margin-right: 15px;" />
-<img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java.png"
-     alt="Java"
-     width="26px"
-     style="float: left; margin-right: 15px;" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
-     alt="VSCode"
-     width="26px"
-     style="float: left; margin-right: 15px;" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
-     alt="Git"
-     width="26px"
-     style="float: left; margin-right: 15px;" />
-<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"
-     alt="Github"
-     width="26px"
-     style="float: left; margin-right: 15px;" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
-     alt="Terminal"
-     width="26px"
-     style="float: left; margin-right: 15px;" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"
-     alt="Vim"
-     width="26px"
-     style="float: left; margin-right: 15px;" />
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="float: left; margin-right: 5px;"/>][github]
+
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java.png" style="float: left; margin-right: 10px;"/>][github]
+
+[<img align="left" alt="VSCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="float: left; margin-right: 5px;"/>][github]
+
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="float: left; margin-right: 10px;"/>][github]
+
+[<img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="float: left; margin-right: 5px;"/>][github]
+
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="float: left; margin-right: 5px;"/>][github]
+
+[<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" style="float: left; margin-right: 5px;"/>][github]
+
 <br>
 
 #### Connect with me:
@@ -72,3 +58,4 @@
 [linkedin]: https://www.linkedin.com/in/andy-wjl/
 [instagram]: https://www.instagram.com/breakfastsearch/
 [gmail]: mailto:wujialun.andy@gmail.com
+[github]: https://www.github.com/sudogene
