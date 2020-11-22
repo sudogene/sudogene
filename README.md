@@ -4,13 +4,13 @@
 
 ---
 
-#### Molecular biologist with a passion for programming
+### Molecular biologist with a passion for programming
 - Major in Life Sciences, Minor in Computer Science
 - Started programming in Python and Java in early 2018
 - TA for NUS CS2030 (Programming Methdology II) in 2019
 - Interest in building software for biological research
 
-#### Languages and Tools:
+### Languages and Tools:
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="float: left; margin-right: 5px;"/>][github]
 
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java.png" style="float: left; margin-right: 10px;"/>][github]
@@ -27,7 +27,7 @@
 
 <br>
 
-#### Connect with me:
+### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="float: left; margin-right: 15px;"/>][linkedin]
 
@@ -38,7 +38,7 @@
 <br>
 
 ---
-#### Some Projects
+### Some Projects
 
   * [Tebby the Telegram bot](https://sudogene.github.io/Telegram-Bot/)
   * [Tebby the Task manager](https://sudogene.github.io/ip/)
