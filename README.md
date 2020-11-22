@@ -5,7 +5,7 @@
 ---
 
 ### Molecular biologist with a passion for programming
-- Major in Life Sciences, Minor in Computer Science
+- NUS undergraduate - Life Sciences major, Computer Science minor
 - Started programming in Python and Java in early 2018
 - TA for NUS CS2030 (Programming Methdology II) in 2019
 - Interest in building software for biological research
