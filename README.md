@@ -13,7 +13,7 @@
 ### Languages and Tools:
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="float: left; margin-right: 5px;"/>][github]
 
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java.png" style="float: left; margin-right: 10px;"/>][github]
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java.png" style="float: left; margin-right: 5px;"/>][github]
 
 [<img align="left" alt="VSCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="float: left; margin-right: 5px;"/>][github]
 
