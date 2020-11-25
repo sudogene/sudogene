@@ -1,7 +1,5 @@
 ## Hey there, I'm Andy aka sudogene :)
 
----
-
 ### Molecular biologist with a passion for programming
 * :books: NUS undergraduate - Life Sciences major, Computer Science minor
 * :computer: Started programming in Python and Java in early 2018
