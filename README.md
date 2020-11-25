@@ -1,7 +1,5 @@
 ## Hey there, I'm Andy aka sudogene :)
 
-[<img src="https://spotify-github-profile.vercel.app/api/view?uid=21rfovexe3lbfrvksor6ke4hy&cover_image=true&theme=novatorem" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/21rfovexe3lbfrvksor6ke4hy)
-
 ---
 
 ### Molecular biologist with a passion for programming
