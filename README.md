@@ -39,7 +39,7 @@
 
 [<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/gmail.svg" style="float: left; margin-right: 15px;"/>][gmail]
 
-[<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/telegram.svg" style="float: left; margin-right: 15px;"/>][gmail]
+[<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/telegram.svg" style="float: left; margin-right: 15px;"/>][telegram]
 
 <br>
 
@@ -64,4 +64,5 @@
 [linkedin]: https://www.linkedin.com/in/andy-wjl/
 [instagram]: https://www.instagram.com/breakfastsearch/
 [gmail]: mailto:wujialun.andy@gmail.com
+[telegram]: https://t.me/andywub
 [github]: https://www.github.com/sudogene
