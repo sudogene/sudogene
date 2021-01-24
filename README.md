@@ -37,7 +37,7 @@
 
 ---
 ### Some Projects
-
+  * [telegrapy](https://github.com/sudogene/telegrapy)
   * [Tebby the Telegram bot](https://sudogene.github.io/Telegram-Bot/)
   * [Tebby the Task manager](https://sudogene.github.io/ip/)
   * [CanoE-Coach](https://ay2021s1-cs2103-f10-1.github.io/tp/)
