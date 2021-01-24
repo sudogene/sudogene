@@ -4,7 +4,7 @@
 * :books: NUS Final Year Undergraduate - Life Sciences major, Computer Science minor
 * :computer: Started programming in Python and Java in early 2018
 * :bread: TA for NUS CS2030 (Programming Methdology II)
-* :microscope: Interest in building software for biological research
+* :microscope: Interest in building software for biological research and bioinformatics
 
 ### Languages and Tools:
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="float: left; margin-right: 5px;"/>][github]
