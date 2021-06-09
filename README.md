@@ -1,4 +1,4 @@
-## Hey there, I'm Andy aka sudogene :)
+## Hey there, I'm Andy
 
 ### Molecular biologist with a passion for programming
 * :books: NUS Final Year Undergraduate - Life Sciences major, Computer Science minor
