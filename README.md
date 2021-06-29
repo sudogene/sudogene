@@ -1,10 +1,7 @@
-## Hey there, I'm Andy
-
-### Molecular biologist with a passion for programming
-* :books: NUS Final Year Undergraduate - Life Sciences major, Computer Science minor
-* :computer: Started programming in Python and Java in early 2018
+### Hi, I'm Andy
+* :books: NUS PhD student - Bioinformatics
 * :bread: TA for NUS CS2030 (Programming Methdology II)
-* :microscope: Interest in building software for biological research and bioinformatics
+* :microscope: Interest in building software and tools for biological research
 
 ### Languages and Tools:
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="float: left; margin-right: 5px;"/>][github]
